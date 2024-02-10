@@ -1,0 +1,157 @@
+###########################################################################################################################################################################
+
+												** Learn_for smart_contract Testing **
+# Blockchain Basics Learning
+# Solidity
+-Truffle
+-Ganache
+-Hardhat
+-Hardhat with mocha
+-Hardhat Testing
+
+
+###########################################################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             															                                         @ Step to go it
+
+
+1.Ethereum Network Understand   // localhost:0110/ethereum.pdf/
+
+2.Solidity Cheatsheet learn One-TIme Only  // https://github.com/manojpramesh/solidity-cheatsheet
+
+3. Learn Every Attack Vector 
+https://consensys.github.io/smart-contract-best-practices/attacks/denial-of-service/        
+https://scsfg.io/hackers/    
+https://github.com/sigp/solidity-security-blog?tab=readme-ov-file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*******************************************************************************************************************************************************************************************************************************************
+																	## Atttack_Types ##
+
+what will watch in smart_contract Testing 
+and this is attack vector types!
+
+#uncrypted Data
+#Overflow
+#Contract interactiions
+#Reentrancy
+#Tx.origin
+#DOS
+#Upgrabeability
+#Weak Randomness
+#Replay Attacks
+
+*Extra Knowledge of particular and up to date Bug in Smart_contract 
+// https://swcregistry.io/
+
+*******************************************************************************************************************************************************************************************************************************************
+
+
+Read this writeup first how to test smart_contract sollidity testing
+
+https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248
+https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b
+
+you'll get some kind of bug Hunting techniques:)
+
+
+
+
+														#### Check_List For smart_contract Testing ####
+			
+											
+Case '1': Read Smart_contract Properly and understand the logic-flow and write_down it!
+
+Case '2' : Uses Automated tool for Smart_contract Testing 
+// https://github.com/saeidshirazi/Awesome-Smart-Contract-Security?tab=readme-ov-file#tools
+-slither and crytic automated tool:)
+-Astra professional Tool
+$ This tool usesd in smart_contract
+# SWC-registry – It is a type of library for smart contract weakness and vulnerabilities
+# MythX – It is a smart contract security analysis API
+# Echidna – It is used for fuzzing/property-based testing of Ethereum smarts contracts
+# Manticore – It is a symbolic execution tool for smart contract analysis
+# Oyente – A static analysis tool for smart contract security
+# SmartCheck – Security analyzer
+# Octopus – It is a security analysis framework for the smart contract
+# Awesome Buggy ERC20 Tokens – A collection of vulnerabilities in ERC20 smart contracts with tokens affected
+
+
+Case '3' : Testing Solidity Smart_contract Manually Code     // https://github.com/cryptofinlabs/audit-checklist  (This checklist for  solidity code manually testing)
+
+Case '4' : Deeply check if you want and you have time so  // https://github.com/tamjid0x01/SmartContracts-audit-checklist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ How to writeup pdf after testing it and thier all details of type attack vector //https://github.com/TechRate/Smart-Contract-Audits/tree/main/August_2023 ]
+-Get some
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
